@@ -15,3 +15,5 @@ To create a logo for Bokeh:
 </div>
 
 `<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/bokeh.svg' width="50" height="50">`
+
+Attention: Any copyright law for the logos must always be respected.
