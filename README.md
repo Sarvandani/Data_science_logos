@@ -7,3 +7,11 @@ To create a logo e.g. logo of Sklearn, You can import the following code into yo
 </div>
 
 `<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Scikit_learn.svg' width="50" height="50">`
+
+To create a logo for Bokeh:
+
+<div align="center">
+<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/bokeh.svg' width="100" height="100"> 
+</div>
+
+`<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/bokeh.svg' width="50" height="50">`
